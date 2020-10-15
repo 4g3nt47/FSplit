@@ -1,0 +1,5 @@
+#!/bin/bash
+# Bash wrapper for FSplit.
+# Author: Umar Abdul
+
+java com.umarabdul.util.fsplit.FSplit "$@"
